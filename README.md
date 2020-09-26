@@ -20,7 +20,11 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthrough GIF
 
+#### iPhone11
 <img src="./flix.gif" width=250><br>
+
+#### iPhoneSE (Second Edition
+<img src="./flixAuto.gif" width=250><br>
 
 ### Notes
 Linking all the storyboards with view controller is important and should be done carefully.
